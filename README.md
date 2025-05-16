@@ -7,15 +7,16 @@ This system simulates a role-based organizational workflow where different depar
 
 ## 📁 Project Structure
 
-src/
-├── main/           → Entry point and main runner
-├── shared/         → Shared modules: FileIO, Logger, Session, Validators, etc.
-├── models/         → Data classes: User, Item, Supplier, etc.
-├── sales/          → Sales Manager logic (PR, sales entries, items)
-├── purchase/       → Purchase Manager logic (PO generation)
-├── inventory/      → Inventory Manager logic (stock updates)
-├── finance/        → Finance Manager logic (PO approval, payments)
-├── admin/          → Admin user registration, full access
+src/=
+main/           → Entry point and main runner
+shared/         → Shared modules: FileIO, Logger, Session, Validators, etc.
+models/         → Data classes: User, Item, Supplier, etc.
+sales/          → Sales Manager logic (PR, sales entries, items)
+purchase/       → Purchase Manager logic (PO generation)
+inventory/      → Inventory Manager logic (stock updates)
+finance/        → Finance Manager logic (PO approval, payments)
+admin/          → Admin user registration, full access
+
 data/
 └── .txt files for all persistent storage
 
