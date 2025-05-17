@@ -1,5 +1,0 @@
-U001|johnsm|pass123|SM|Active|2025-05-10 14:20
-U002|alicepm|securepass|PM|Active|2025-05-10 14:21
-U003|admin01|adminpass|ADMIN|Active|2025-05-10 14:22
-U004|intman|invpass|IM|Active|2025-05-10 14:23
-U005|finman|finpass|FM|Active|2025-05-10 14:24
