@@ -1,4 +1,0 @@
-I001|Milo 1kg|S001|100|Active|2025-05-11 11:00
-I002|Gardenia Bread|S002|60|Active|2025-05-11 11:01
-I003|Dutch Lady Milk|S001|80|Active|2025-05-11 11:02
-I004|Ayamas Nuggets|S003|40|Active|2025-05-11 11:03
